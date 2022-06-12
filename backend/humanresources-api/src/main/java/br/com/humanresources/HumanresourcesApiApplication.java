@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class HumanresourcesApiApplication {
 
+	// Teste
 	public static void main(String[] args) {
 		SpringApplication.run(HumanresourcesApiApplication.class, args);
 	}
